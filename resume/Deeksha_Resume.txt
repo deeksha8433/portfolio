@@ -1,0 +1,44 @@
+Deeksha - Frontend Developer Resume
+
+Contact Information:
+Email: deeksha@example.com
+Phone: +1 (555) 123-4567
+Location: Your City, Country
+
+Professional Summary:
+Aspiring Frontend Developer with a passion for creating beautiful and functional web applications. Proficient in HTML5, CSS3, JavaScript, and modern frameworks. Committed to continuous learning and delivering high-quality user experiences.
+
+Skills:
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Vue.js
+- Responsive Web Design
+- Git Version Control
+- UI/UX Design Principles
+- RESTful APIs
+
+Experience:
+Frontend Developer Intern
+Tech Company Name
+[Start Date] - [End Date]
+
+- Developed responsive web applications using React.js
+- Collaborated with design team to implement pixel-perfect UI components
+- Optimized application performance and user experience
+- Participated in code reviews and agile development processes
+
+Education:
+Bachelor of Computer Science
+University Name
+[Graduation Year]
+
+Certifications:
+- Google IT Support Professional Certificate
+- Meta Frontend Developer Certificate
+- AWS Cloud Practitioner
+
+Projects:
+- Portfolio Website: Personal portfolio showcasing skills and projects
+- E-commerce Platform: Full-stack web application with payment integration
+- Task Management App: React-based productivity application
+
+This is a placeholder resume. Please replace this with your actual resume in PDF format.
